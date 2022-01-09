@@ -88,7 +88,7 @@
 - [ ] A1. [Appendix A: Git in Other Environments](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Graphical-Interfaces)
   - [ ] A1.[1 Graphical Interfaces](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Graphical-Interfaces)
   - [ ] A1.[2 Git in Visual Studio](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Visual-Studio)
-  - [ ] A1.[3 Git in Visual Studio Code](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Visual-Studio-Code)
+  - [x] A1.[3 Git in Visual Studio Code](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Visual-Studio-Code)
   - [ ] A1.[4 Git in IntelliJ / PyCharm / WebStorm / PhpStorm / RubyMine](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-IntelliJ-%2F-PyCharm-%2F-WebStorm-%2F-PhpStorm-%2F-RubyMine)
   - [ ] A1.[5 Git in Sublime Text](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Sublime-Text)
   - [ ] A1.[6 Git in Bash](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Bash)
