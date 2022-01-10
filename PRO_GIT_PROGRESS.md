@@ -14,7 +14,7 @@
   - [x] 2.2 [Recording Changes to the Repository](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
   - [x] 2.3 [Viewing the Commit History](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
   - [x] 2.4 [Undoing Things](https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
-  - [ ] 2.5 [Working with Remotes](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
+  - [x] 2.5 [Working with Remotes](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
   - [ ] 2.6 [Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
   - [ ] 2.7 [Git Aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases)
   - [ ] 2.8 [Summary](https://git-scm.com/book/en/v2/Git-Basics-Summary)
