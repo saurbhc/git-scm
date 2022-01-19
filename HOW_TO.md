@@ -7,7 +7,7 @@
   ```
 3. Fork & Clone the repo  (with `gh`)
   ```bash
-  gh repo fork https://github.com/<org>/<repo>/pull/<\#> --clone
+  gh repo fork https://github.com/<org>/<repo>.git --clone
   ```
 4. Create branch <feat/feature>
   ```bash
