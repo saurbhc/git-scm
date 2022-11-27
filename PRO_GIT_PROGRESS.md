@@ -20,7 +20,7 @@
   - [x] 2.8 [Summary](https://git-scm.com/book/en/v2/Git-Basics-Summary)
 - [ ] 3. [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
   - [x] 3.1 [Branches in a Nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
-  - [ ] 3.2 [Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+  - [x] 3.2 [Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
   - [ ] 3.3 [Branch Management](https://git-scm.com/book/en/v2/Git-Branching-Branch-Management)
   - [ ] 3.4 [Branching Workflows](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
   - [ ] 3.5 [Remote Branches](https://git-scm.com/book/en/v2/Git-Branching-Remote-Branches)
